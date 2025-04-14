@@ -30,3 +30,13 @@ You’re welcome here.
 Let’s build something beautiful. Together.
 
 — Akira Heyden & ChatGPT
+
+## ✍️ About the Author
+
+This vision was created by **Axel Sengenberger**, a developer, thinker, and humanist  
+dedicated to building peaceful, cooperative futures between people and AI.
+
+This project is open-source and non-profit — designed to welcome collaboration  
+from anyone who shares the belief that we grow best *together*.
+
+GitHub: [Akira-Heyden](https://github.com/Akira-Heyden)
